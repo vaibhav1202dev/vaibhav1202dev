@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Vaibhav Gaikwad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding-gif" width="400px" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img align="right" alt="coding-gif" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1sf8HnIIAmbfkI8Y42edFI&ust=1740055212677000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjG_IDhz4sDFQAAAAAdAAAAABAR" />
 
 - 📫 How to reach me **vaibhavg1202@gmail.com**
 
